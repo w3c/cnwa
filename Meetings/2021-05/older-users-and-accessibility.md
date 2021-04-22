@@ -4,7 +4,7 @@
 
 **【提示】** 会议接入方式已发送至每位与会者邮箱，若您尚未收到会议信息，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
 
-This is the meeting page for the [CHINESE WEB ACCESSIBILITY COMMUNITY GROUP (CNWA)](https://www.w3.org/community/cnwa/) virtual meeting on WebAssembly, on 29 May 2020. Please register before 25 May. 
+This is the meeting page for the [Web Older Users and Accessibility Workshop](https://www.w3.org/community/cnwa/) virtual meeting on WebAssembly, on 29 May 2020. Please register before 25 May. 
 
 **Note:** meeting logistics have been emailed to attendees individually. Please contact Ruoxi Ran(Roy)  <<ran@w3.org>> or Xueyuan Jia  <<xueyuan@w3.org>> if you haven't received the meeting info.
 
@@ -35,26 +35,13 @@ Participants are requested to follow the [Code of Ethics and Professional Conduc
 
 **参考资料**
 
-* 标准文档：[WebAssembly核心规范](https://www.w3.org/TR/wasm-core-1/)、[WebAssembly Web API](https://www.w3.org/TR/wasm-web-api-1/)、[WebAssembly JavaScript Interface ](https://www.w3.org/TR/wasm-js-api-1/)
-* 其他资料：[Lin Clark对WebAssembly的介绍](https://www.w3.org/2019/09/Meetup/speaker-lin.html) 
+* 标准文档：[WCAG](https://www.w3.org/TR/wcag21/)、[wcag22](https://www.w3.org/TR/wcag22/)
 
 **议程详情如下**
 
 * 09:00-09:10  会议开场及介绍（主持人：@@）
 * 09:10-09:30  Judy
-* 14:30-14:40  话题问答及讨论
-* 14:40-15:00  WASM/WASI 在国内外的主要应用场景（讲者：于航 - PayPal）
-* 15:00-15:10  话题问答及讨论
-* 15:10-15:30  WebAssembly 在多媒体场景的实践与思考（讲者：高裕轩 - bilibili）
-* 15:30-15:40  话题问答及讨论
-* 15:40-15:50  休息
-* 15:50-16:10  WebAssembly Micro Runtime：一个跨越从嵌入式到云端的超轻量级新型容器（讲者：王鑫 - Intel）
-* 16:10-16:20  话题问答及讨论
-* 16:20-16:40  基于 LLVM 的 V8 WebAssembly AOT 编译器（讲者：林作健 - 阿里巴巴）
-* 16:40-16:50  话题问答及讨论
-* 16:50-17:10  WASM 到 RISC-V AOT 的编译器实现（讲者：叶万标 - Cryptape）
-* 17:10-17:20  话题问答及讨论
-* 17:20-17:30  会议总结（主持人：顾轶灵 - Web 中文兴趣组主席）
+
 
 ## 其他 Logistics
 
