@@ -1,12 +1,12 @@
 # Web 适老化及无障碍线上研讨会・2021年5月
 
-[W3C Web 无障碍中文社区组](https://www.w3.org/community/cnwa/) Web 适老化及无障碍线上研讨会将于**2020年5月29日**举行，请于**5月25日前**注册参会。
+[W3C Web 无障碍中文社区组](https://www.w3.org/community/cnwa/) Web 适老化及无障碍线上讨论会将于**2020年5月29日**举行，请于**5月25日前**注册参会。
 
-**【提示】** 会议接入方式已发送至每位与会者邮箱，若您尚未收到会议信息，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
+**【提示】** 会议接入方式将发送至每位注册者邮箱，若您5月28日尚未收到会议信息，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
 
-This is the meeting page for the [Web Older Users and Accessibility Workshop](https://www.w3.org/community/cnwa/) virtual meeting on WebAssembly, on 29 May 2020. Please register before 25 May. 
+This is the meeting page for the [Web Older Users and Accessibility Online Meeting](https://www.w3.org/community/cnwa/) on WebAssembly, on 29 May 2020. Please register before 25 May. 
 
-**Note:** meeting logistics have been emailed to attendees individually. Please contact Ruoxi Ran(Roy)  <<ran@w3.org>> or Xueyuan Jia  <<xueyuan@w3.org>> if you haven't received the meeting info.
+**Note:** meeting logistics will be emailed to attendees individually. Please contact Ruoxi Ran(Roy)  <<ran@w3.org>> or Xueyuan Jia  <<xueyuan@w3.org>> if you haven't received the meeting info by 28 May.
 
 本次研讨会的内容源于实践并专注于 Web 适老化及无障碍的技术话题。
 
@@ -23,7 +23,7 @@ The topics of this meeting will be based on current practices, and the meeting w
 ## 注册参会 Registration
 
 本次会议对[Web 无障碍中文社区组成员](https://www.w3.org/community/cnwa/)、[W3C会员](https://www.w3.org/Consortium/Member/List)和受邀嘉宾开放。
-欢迎于5月20日前完成[会议注册](@@)。
+欢迎于5月25日前完成[会议注册](@@)。
 请与会者遵守[《W3C职业道德与行为准则》](https://www.w3.org/Consortium/cepc/)。
 
 The meeting is open to the [group participants](https://www.w3.org/community/cnwa/), [W3C members](https://www.w3.org/Consortium/Member/List), and invited guests. 
@@ -48,4 +48,4 @@ Participants are requested to follow the [Code of Ethics and Professional Conduc
 * IRC（线上讨论/记录频道）
   * irc.w3.org, <a href="http://irc.w3.org/?channels=#cnwa">#cnwa</a>
 * 远程接入方式
-  * 会议接入信息将于**@@**单独发送至与会者邮箱，请留意查收。
+  * 会议接入信息将于**5月28日**单独发送至与会者邮箱，请留意查收。
