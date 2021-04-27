@@ -10,6 +10,9 @@
 3. 现有的国家及国际如何满足老年人的需求；
 4. 该领域的未来工作。
 
+
+This is the meeting page for the [Web Older Users and Accessibility Online Meeting](https://www.w3.org/community/cnwa/) on WebAssembly, on 29 May 2020. Please register before 25 May. 
+
 The topics of this meeting will be based on current practices, and the meeting will focus on technical discussions of older users and accessibility.
 
 The main topics of this conference will include:
@@ -20,8 +23,6 @@ The main topics of this conference will include:
 
 **【提示】** 会议接入方式将发送至每位注册者邮箱，若您5月28日尚未收到会议信息，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
 
-This is the meeting page for the [Web Older Users and Accessibility Online Meeting](https://www.w3.org/community/cnwa/) on WebAssembly, on 29 May 2020. Please register before 25 May. 
-
 **Note:** meeting logistics will be emailed to attendees individually. Please contact Ruoxi Ran(Roy)  <<ran@w3.org>> or Xueyuan Jia  <<xueyuan@w3.org>> if you haven't received the meeting info by 28 May.
 
 
@@ -31,7 +32,7 @@ This is the meeting page for the [Web Older Users and Accessibility Online Meeti
 - [Web 适老化及无障碍线上研讨会・2021年5月](#web-适老化及无障碍线上研讨会2021年5月)
   - [目录 Table of contents](#目录-table-of-contents)
   - [注册参会 Registration](#注册参会-registration)
-  - [议程安排 Agenda](#议程安排-agendatbd)
+  - [议程安排 Agenda](#议程安排-agenda)
   - [其他 Logistics](#其他-logistics)
 
 ## 注册参会 Registration
@@ -51,7 +52,7 @@ Participants are requested to follow the [Code of Ethics and Professional Conduc
 
 * 标准文档：[WCAG](https://www.w3.org/TR/wcag21/)、[wcag22](https://www.w3.org/TR/wcag22/)
 
-**议程详情如下**
+**议程详情如下(TBD)**
 
 * 09:00-09:10  会议开场及介绍（主持人：@@）
 * 09:10-09:30  Judy
