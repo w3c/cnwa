@@ -2,15 +2,29 @@
 
 [W3C Web 无障碍中文社区组](https://www.w3.org/community/cnwa/) Web 适老化及无障碍线上讨论会将于**2020年5月29日**举行，请于**5月25日前**注册参会。
 
+本次研讨会的内容源于实践并专注于 Web 适老化及无障碍的技术话题。
+
+此次会议主要话题将包括：
+1. 探讨与年龄相关的 Web 使用障碍；
+2. 如何增强老年人使用 Web 设计要求；
+3. 现有的国家及国际如何满足老年人的需求；
+4. 该领域的未来工作。
+
+The topics of this meeting will be based on current practices, and the meeting will focus on technical discussions of older users and accessibility.
+
+The main topics of this conference will include:
+1. age-related impairments that impact Web use;
+2. requirements for web design that enhance the ability of older people to use the Web;
+3. how existing accessibility standards for people with disabilities cover the needs of older users;
+4. future work in this area.
+
 **【提示】** 会议接入方式将发送至每位注册者邮箱，若您5月28日尚未收到会议信息，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
 
 This is the meeting page for the [Web Older Users and Accessibility Online Meeting](https://www.w3.org/community/cnwa/) on WebAssembly, on 29 May 2020. Please register before 25 May. 
 
 **Note:** meeting logistics will be emailed to attendees individually. Please contact Ruoxi Ran(Roy)  <<ran@w3.org>> or Xueyuan Jia  <<xueyuan@w3.org>> if you haven't received the meeting info by 28 May.
 
-本次研讨会的内容源于实践并专注于 Web 适老化及无障碍的技术话题。
 
-The topics of this meeting will be based on current practices, and the meeting will focus on technical discussions of older users and accessibility.
 
 ## 目录 Table of contents
 
