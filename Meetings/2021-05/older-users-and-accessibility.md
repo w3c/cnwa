@@ -55,7 +55,8 @@ Participants are requested to follow the [Code of Ethics and Professional Conduc
 **议程详情如下(TBD)**
 
 * 09:00-09:10  会议开场及介绍（主持人：@@）
-* 09:10-09:30  Judy
+* 09:10-09:30  Judy Brewer (W3C)
+* --- TBD ---
 
 
 ## 其他 Logistics
