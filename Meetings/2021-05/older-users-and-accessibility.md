@@ -11,7 +11,7 @@
 4. 该领域的未来工作。
 
 
-This is the meeting page for the [Web Older Users and Accessibility Online Meeting](https://www.w3.org/community/cnwa/) on WebAssembly, on 29 May 2020. Please register before 25 May. 
+This is the meeting page for the Web Older Users and Accessibility Online Meeting by [CHINESE WEB ACCESSIBILITY COMMUNITY GROUP](https://www.w3.org/community/cnwa/), on 29 May 2020. Please register before 25 May. 
 
 The topics of this meeting will be based on current practices, and the meeting will focus on technical discussions of older users and accessibility.
 
