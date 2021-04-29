@@ -10,43 +10,24 @@
 3. 现有的国家及国际如何满足老年人的需求；
 4. 该领域的未来工作。
 
+**【提示】** 会议接入方式将会在5月15日公布，有任何疑问，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
 
-This is the meeting page for the Web Older Users and Accessibility Online Meeting by [CHINESE WEB ACCESSIBILITY COMMUNITY GROUP](https://www.w3.org/community/cnwa/), on 29 May 2020. Please register before 25 May. 
-
-The topics of this meeting will be based on current practices, and the meeting will focus on technical discussions of older users and accessibility.
-
-The main topics of this conference will include:
-1. age-related impairments that impact Web use;
-2. requirements for web design that enhance the ability of older people to use the Web;
-3. how existing accessibility standards for people with disabilities cover the needs of older users;
-4. future work in this area.
-
-**【提示】** 会议接入方式将发送至每位注册者邮箱，若您5月28日尚未收到会议信息，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
-
-**Note:** meeting logistics will be emailed to attendees individually. Please contact Ruoxi Ran(Roy)  <<ran@w3.org>> or Xueyuan Jia  <<xueyuan@w3.org>> if you haven't received the meeting info by 28 May.
-
-
-
-## 目录 Table of contents
+## 目录
 
 - [Web 适老化及无障碍线上研讨会・2021年5月](#web-适老化及无障碍线上研讨会2021年5月)
-  - [目录 Table of contents](#目录-table-of-contents)
-  - [注册参会 Registration](#注册参会-registration)
-  - [议程安排 Agenda](#议程安排-agenda)
-  - [其他 Logistics](#其他-logistics)
+  - [目录](#目录)
+  - [注册参会](#注册参会)
+  - [议程安排](#议程安排)
+  - [其他](#其他)
 
-## 注册参会 Registration
+## 注册参会 
 
-本次会议对[Web 无障碍中文社区组成员](https://www.w3.org/community/cnwa/)、[W3C会员](https://www.w3.org/Consortium/Member/List)和受邀嘉宾开放。
+本次会议对所有公众开放，请在一下表格中填写您的注册信息。
 欢迎于5月25日前完成[会议注册](@@)。
 请与会者遵守[《W3C职业道德与行为准则》](https://www.w3.org/Consortium/cepc/)。
 
-The meeting is open to the [group participants](https://www.w3.org/community/cnwa/), [W3C members](https://www.w3.org/Consortium/Member/List), and invited guests. 
-Please [register online](@@) before May 20.
-Participants are requested to follow the [Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
 
-
-## 议程安排 Agenda
+## 议程安排 
 
 **参考资料**
 
@@ -64,4 +45,7 @@ Participants are requested to follow the [Code of Ethics and Professional Conduc
 * IRC（线上讨论/记录频道）
   * irc.w3.org, <a href="http://irc.w3.org/?channels=#cnwa">#cnwa</a>
 * 远程接入方式
-  * 会议接入信息将于**5月28日**单独发送至与会者邮箱，请留意查收。
+  * 会议接入信息将于**5月15日**发布，请留意查收。
+* 欢迎加入微信群讨论：
+  *@@
+ 
