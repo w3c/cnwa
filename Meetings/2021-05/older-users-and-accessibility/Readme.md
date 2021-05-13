@@ -25,7 +25,7 @@
 
 会议注册现已开放，请参会者在[会议注册](https://labs.w3.org/beihang/signup/2021-older-users-and-accessibility)页面注册，会议注册至**5月25日**截止，敬请留意。
 
-我们将使用 Zoom 作为本次会议的线上接入工具，具体接入方式将单独发送至与会者会议注册时提供的邮箱，同时也会在 [W3C Web 无障碍中文社区组页面](https://www.w3.org/community/cnwa/)，以及 W3C [Web无障碍线上交流微信群](#微信群)中发布接入信息，敬请留意。若您**至5月27日**尚未收到会议接入信息，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
+我们将使用 Zoom 作为本次会议的线上接入工具，具体接入方式将单独发送至与会者会议注册时提供的邮箱，同时也会在 [W3C Web 无障碍中文社区组页面](https://www.w3.org/community/cnwa/)，以及 W3C [Web无障碍线上交流微信群](#其他)中发布接入信息，敬请留意。若您**至5月27日**尚未收到会议接入信息，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
 
 请会者知悉并遵守[《W3C职业道德与行为准则》](https://www.w3.org/Consortium/cepc/)。
 
