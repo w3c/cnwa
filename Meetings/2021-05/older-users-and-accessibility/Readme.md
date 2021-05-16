@@ -63,7 +63,7 @@
 ## 其他
 
 * IRC（线上讨论/记录频道）
-  * irc.w3.org, <a href="http://irc.w3.org/?channels=#cnwa">#cnwa</a>
+  * irc.w3.org, <a href="https://irc.w3.org/?channels=#cnwa">#cnwa</a>
 * Zoom
   * 我们将使用 Zoom 作为本次会议的线上接入工具，具体接入方式将单独发送至与会者[会议注册](#会议注册)时提供的邮箱，敬请留意。若您**至5月27日**尚未收到会议接入信息，请邮件联系：冉若曦 <<ran@w3.org>>、贾雪远 <<xueyuan@w3.org>>。
 * 微信群
