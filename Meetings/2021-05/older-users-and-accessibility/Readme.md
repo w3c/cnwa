@@ -3,6 +3,8 @@
 </style>
 # Web 适老化及无障碍线上交流会・2021年5月29日 
 
+**提示**：本次交流[会议纪要](https://www.w3.org/2021/05/29-older-users-and-accessibility/minutes.html)现已发布（含讲者PPT）。
+
 [W3C Web 无障碍中文社区组](https://www.w3.org/community/cnwa/) 将于**2021年5月29日（北京时间：9:00am-12:30pm）**举行 Web 适老化及无障碍线上交流会，欢迎于**5月25日前**注册参会。同时欢迎大家加入[W3C Web 无障碍中文社区组](https://www.w3.org/community/cnwa/)参与社区组的活动。请知悉并遵守[《W3C 职业道德与行为准则》](https://www.w3.org/Consortium/cepc/)。
 
 随着老龄化程度不断加深，让老龄用户也能无障碍地使用 Web 将有效保障他们平等参与社会活动，从而共享 Web 资源及权益。本次交流会将围绕 Web 上的老龄用户展开，分享和探讨目前已知的老龄用户需求以及相关的国内、国际标准，专注于 Web 适老化及无障碍等技术话题。
@@ -26,9 +28,7 @@
 
 ## 会议记录
 
-会议现已结束，会议记录将会公开，感谢各位讲者及参与者的支持。
-
-
+感谢各位讲者的精彩分享及与会者的支持！本次交流[会议纪要](https://www.w3.org/2021/05/29-older-users-and-accessibility/minutes.html)现已发布（含讲者PPT）。
 
 
 ## 议程安排 
